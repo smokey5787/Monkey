@@ -1,0 +1,2 @@
+# Monkey
+Splashscreen for KDE
